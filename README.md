@@ -15,12 +15,17 @@ AI-powered SQL Agent built using **LangChain + Gemini + SQLite** that answers na
 - Google Gemini
 - SQLite
 
-## 📂 Project Structure
+## 📁 Project Structure
+
+```
 sql-langchain-agent/
-│── app.py
-│── Chinook.db
-│── requirements.txt
-│── .env.example
+│
+├── app.py
+├── Chinook.db
+├── requirements.txt
+└── .env.example
+```
+
 
 
 ## ⚙️ Setup
