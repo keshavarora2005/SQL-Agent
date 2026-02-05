@@ -21,7 +21,6 @@ sql-langchain-agent/
 │── Chinook.db
 │── requirements.txt
 │── .env.example
-│── notebooks/
 
 
 ## ⚙️ Setup
